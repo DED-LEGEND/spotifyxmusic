@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tmm_heroku_world")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/tmm_heroku_world")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/love_for_isqe_143")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/love_for_isqe_143")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,7 +86,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/5dfbd1a056fdece9e1b94.jpg"
+    "START_IMG_URL", "https://envs.sh/ct4.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/29bf663a3b91c7e0086bc.jpg"
